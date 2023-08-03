@@ -1,0 +1,40 @@
+*{
+    background-color: #0D1282;
+    color: #EEEDED;
+}
+img{
+    border-style: solid;
+    border-radius: 200px;
+    border-color: #D71313;
+}
+
+hr{
+    border-top-style: dotted;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-color: #F0DE36;
+    border-width: 10px;
+    width: 25%;    
+}
+#footer-line{
+    border-style: solid;
+    border-width: 1px;
+    width: 100%;
+
+}
+h1{
+    text-align: center;
+}
+.q12{
+    width: 70px;
+}
+
+a{
+    text-decoration-line: none;
+}.space{
+    margin-top: 20px;
+}
+footer{
+    text-align: center;
+}
